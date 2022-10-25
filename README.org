@@ -1,0 +1,11 @@
+#+TITLE: Excuses: What is going wrong today?
+
+* Introduction
+
+Based on various lists from the Internet, this repository contains list of
+excuses and various tools and scripts for processing them into useful formats.
+
+Specifically, I needed a source of single line quotes for use to develop a
+messaging application.
+
+
